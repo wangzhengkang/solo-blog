@@ -10,9 +10,12 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://wcoder.club/my-github-repos)
+* [代码规范探讨](http://wcoder.club/articles/2019/12/02/1575289076688.html)
+* [Java 8 新特性](http://wcoder.club/articles/2019/12/02/1575263105176.html)
 * [个人小记](http://wcoder.club/articles/2019/12/02/1575252698426.html)
-* [【转载】Spring Cloud是什么鬼？](http://wcoder.club/articles/2019/12/02/1575250216091.html)
 * [【转载】SpringBoot 精髓之 SpringBoot-starter](http://wcoder.club/articles/2019/12/02/1575250543046.html)
+* [【转载】Spring Cloud是什么鬼？](http://wcoder.club/articles/2019/12/02/1575250216091.html)
 * [【转载】 MySQL 之 Explain 输出分析](http://wcoder.club/articles/2019/12/02/1575251310870.html)
 * [【转载】你应该知道的 MySQL 的锁](http://wcoder.club/articles/2019/12/02/1575251361504.html)
 * [【转载】使用 Nginx 搭配 Tomcat 实现负载均衡!](http://wcoder.club/articles/2019/12/02/1575251511238.html)
